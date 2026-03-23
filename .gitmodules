@@ -1,0 +1,3 @@
+[submodule "themes/localcraft"]
+	path = themes/localcraft
+	url = https://github.com/maciejkosiarski/localcraft.git

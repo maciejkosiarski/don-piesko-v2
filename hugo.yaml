@@ -1,0 +1,172 @@
+baseURL: https://snipsnip.pl/
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  pl:
+    languageName: Polski
+    languageCode: pl-PL
+    contentDir: content/pl
+    title: "Ciachu Ciachu"
+    weight: 2
+    params:
+      logo:
+        name: "Ciachu Ciachu"
+        dot: true
+      business:
+        name: "Ciachu Ciachu"
+      footer:
+        description: "Profesjonalna pielęgnacja Twoich pupili"
+        columns:
+          - title: "Nawigacja"
+            links:
+              - name: "O nas"
+                url: "/pl/o-nas/"
+              - name: "Cennik"
+                url: "/pl/cennik/"
+              - name: "Galeria"
+                url: "/pl/galeria/"
+              - name: "FAQ"
+                url: "/pl/faq/"
+          - title: "Informacje"
+            links:
+              - name: "Polityka prywatności"
+                url: "/documents/polityka-prywatnosci.pdf"
+                external: true
+          - title: "Kontakt"
+            type: "contact"
+        social:
+          - platform: "facebook"
+            url: "https://facebook.com/ciachuciachupets"
+          - platform: "instagram"
+            url: "https://instagram.com/ciachuciachupets"
+          - platform: "tiktok"
+            url: "https://tiktok.com/@ciachuciachupets"
+        show_credit: true
+    menu:
+      main:
+        - name: "O nas"
+          url: "/pl/o-nas/"
+          weight: 1
+        - name: "Cennik"
+          url: "/pl/cennik/"
+          weight: 2
+        - name: "Galeria"
+          url: "/pl/galeria/"
+          weight: 3
+        - name: "FAQ"
+          url: "/pl/faq/"
+          weight: 4
+        - name: "Blog"
+          url: "/pl/blog/"
+          weight: 5
+        - name: "Kontakt"
+          url: "/pl/lokalizacja/"
+          weight: 6
+  en:
+    languageName: English
+    languageCode: en-US
+    contentDir: content/en
+    title: "Snip Snip"
+    weight: 1
+    params:
+      logo:
+        name: "Snip Snip"
+        dot: true
+      business:
+        name: "Snip Snip"
+      footer:
+        description: "Professional care for your furry friends"
+        columns:
+          - title: "Navigation"
+            links:
+              - name: "About"
+                url: "/en/about/"
+              - name: "Pricing"
+                url: "/en/pricing/"
+              - name: "Gallery"
+                url: "/en/gallery/"
+              - name: "FAQ"
+                url: "/en/faq/"
+          - title: "Information"
+            links:
+              - name: "Privacy Policy"
+                url: "/documents/polityka-prywatnosci.pdf"
+                external: true
+          - title: "Contact"
+            type: "contact"
+        social:
+          - platform: "facebook"
+            url: "https://facebook.com/snipsnip"
+          - platform: "instagram"
+            url: "https://instagram.com/snipsnip"
+          - platform: "tiktok"
+            url: "https://tiktok.com/@snipsnip"
+        show_credit: true
+    menu:
+      main:
+        - name: "About"
+          url: "/en/about/"
+          weight: 1
+        - name: "Pricing"
+          url: "/en/pricing/"
+          weight: 2
+        - name: "Gallery"
+          url: "/en/gallery/"
+          weight: 3
+        - name: "FAQ"
+          url: "/en/faq/"
+          weight: 4
+        - name: "Blog"
+          url: "/en/blog/"
+          weight: 5
+        - name: "Contact"
+          url: "/en/location/"
+          weight: 6
+languageCode: en-US
+
+module:
+  imports:
+    - path: github.com/maciejkosiarski/localcraft
+
+taxonomies:
+  tag: tags
+  category: categories
+
+pagination:
+  pagerSize: 6
+
+params:
+  logo:
+    name: "Snip Snip"
+    dot: true
+  # Google Tag Manager (optional) - uncomment and add your GTM ID
+  # gtm:
+  #   id: "GTM-XXXXXXX"
+  # Custom colors (optional) - uncomment to override default theme colors
+  # colors:
+  #   primary: "#3B5C45"      # Main brand color (buttons, links, accents)
+  #   primary_light: "#4A7257"
+  #   primary_pale: "#E8F0EA"
+  #   accent: "#C4714A"       # Secondary accent color (CTAs, highlights)
+  #   accent_dark: "#B5633D"
+  #   accent_pale: "#F5E6E0"
+  #   background: "#FAF7F0"   # Page background color
+  #   text: "#2D2D2D"         # Main text color
+  #   text_muted: "#6B6B6B"   # Secondary text color
+  # SEO & Business Info
+  business:
+    name: "Snip Snip"
+    # Schema.org type: PetGroomer, HairSalon, BeautySalon, DaySpa, HealthAndBeautyBusiness
+    type: "PetGroomer"
+    phone: "+48 123 456 789"
+    email: "kontakt@snipsnip.pl"
+    street: "ul. Kwiatowa 15"
+    city: "Warszawa"
+    postalCode: "00-001"
+    country: "PL"
+    # Coordinates for map and JSON-LD
+    lat: 52.2297
+    lng: 21.0122
+    start_year: 2018
+  # Open Graph image
+  og_image: "/images/og-default.jpg"
