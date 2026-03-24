@@ -1,0 +1,24 @@
+- title: "Strzyżenie"
+  description: "Profesjonalne strzyżenie dostosowane do rasy i indywidualnych potrzeb Twojego pupila"
+  icon: "scissors"
+  featured: true
+
+- title: "Kąpiel i suszenie"
+  description: "Kompleksowa kąpiel z użyciem profesjonalnych kosmetyków dopasowanych do typu sierści"
+  icon: "droplet"
+  featured: true
+
+- title: "Trymowanie"
+  description: "Fachowe trymowanie dla ras wymagających tej metody pielęgnacji sierści"
+  icon: "hand"
+  featured: false
+
+- title: "Pielęgnacja pazurków"
+  description: "Bezpieczne przycinanie i pielęgnacja pazurków z dbałością o komfort zwierzęcia"
+  icon: "activity"
+  featured: false
+
+- title: "Czyszczenie uszu"
+  description: "Delikatne czyszczenie uszu z zachowaniem najwyższych standardów higieny"
+  icon: "ear"
+  featured: false
