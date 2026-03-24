@@ -1,0 +1,25 @@
+days:
+  - day: "Poniedziałek"
+    open: "8:00"
+    close: "16:00"
+    closed: false
+  - day: "Wtorek"
+    open: "8:00"
+    close: "16:00"
+    closed: false
+  - day: "Środa"
+    open: "8:00"
+    close: "16:00"
+    closed: false
+  - day: "Czwartek"
+    open: "8:00"
+    close: "16:00"
+    closed: false
+  - day: "Piątek"
+    open: "8:00"
+    close: "16:00"
+    closed: false
+  - day: "Sobota"
+    closed: true
+  - day: "Niedziela"
+    closed: true
