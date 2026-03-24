@@ -1,17 +1,17 @@
 ---
-title: "Ciachu Ciachu – Salon Groomerski"
-description: "Profesjonalna pielęgnacja psów w centrum Warszawy. Strzyżenie, kąpiele, trymowanie i więcej."
+title: "Don Piesko – Salon Groomerski Lublin"
+description: "Psi fryzjer Lublin – Profesjonalna pielęgnacja psów w Lublinie. Strzyżenie, kąpiele, trymowanie i więcej."
 
 sections:
   - type: hero
     enabled: true
     eyebrow: "Salon groomerski w Lublinie"
-    heading: "Twój pies zasługuje na najlepszą pielęgnację"
-    heading_italic: "najlepszą"
+    heading: "Don Piesko – Całkowicie legalny biznes. Specjalizujemy się w praniu... brudnych psów."
+    heading_italic: "legalny biznes"
     description: "Profesjonalne strzyżenie, kąpiele i zabiegi pielęgnacyjne w przyjaznej atmosferze. Działamy z pasją od 2022 roku."
     cta_primary:
       text: "Umów wizytę"
-      url: "/lokalizacja/"
+      url: "tel:+48509212552"
     cta_secondary:
       text: "Zobacz cennik"
       url: "/cennik/"
@@ -19,8 +19,8 @@ sections:
     stats:
       - value: "1000+"
         label: "zadowolonych piesków"
-      - value: "4"
-        label: "lat doświadczenia"
+      - value: "2022"
+        label: "rok założenia"
       - value: "5.0"
         label: "ocena Google"
 
@@ -56,10 +56,18 @@ sections:
       text: "Wszystkie artykuły"
       url: "/blog/"
 
+  - type: faq
+    enabled: true
+    label: "FAQ"
+    heading: "Najczęściej zadawane pytania"
+    description: "Odpowiedzi na pytania dotyczące naszych usług i wizyt w salonie."
+    limit: 6
+
   - type: cta-banner
     enabled: true
     heading: "Gotowy na wizytę?"
     description: "Zadzwoń i umów się na termin, który Ci odpowiada."
     cta:
-      text: "Zadzwoń teraz"
+      text: "Zadzwoń: +48 509 212 552"
+      url: "tel:+48509212552"
 ---
