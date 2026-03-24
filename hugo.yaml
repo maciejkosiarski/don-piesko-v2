@@ -6,7 +6,7 @@ languages:
   pl:
     languageName: Polski
     languageCode: pl-PL
-    contentDir: content
+    contentDir: content/pl
     title: "Psi Fryzjer - Lublin - Don Piesko"
     weight: 1
     params:

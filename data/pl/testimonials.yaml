@@ -1,0 +1,14 @@
+- name: "Anna Kowalska"
+  detail: "Luna, Golden Retriever"
+  rating: 5
+  text: "Najlepszy salon groomerski w Lublinie! Moja Luna zawsze wygląda przepięknie i jest bardzo zadowolona."
+
+- name: "Piotr Nowak"
+  detail: "Max, Cocker Spaniel"
+  rating: 5
+  text: "Profesjonalna obsługa i świetne podejście do zwierząt. Polecam z całego serca!"
+
+- name: "Katarzyna Wiśniewska"
+  detail: "Burek, Yorkshirsky Terier"
+  rating: 5
+  text: "Don Piesko to miejsce, gdzie mój pies czuje się bezpiecznie. Rewelacyjna pielęgnacja!"

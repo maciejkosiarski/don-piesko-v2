@@ -1,0 +1,47 @@
+categories:
+  - name: "Psy małe"
+    description: "do 10 kg"
+    services:
+      - name: "Kąpiel z suszeniem"
+        price: "50 PLN"
+        duration: "45 min"
+        tags: ["kąpiel", "pielęgnacja"]
+      - name: "Strzyżenie maszynką"
+        price: "80 PLN"
+        duration: "60 min"
+        tags: ["strzyżenie"]
+
+  - name: "Psy średnie"
+    description: "10-25 kg"
+    services:
+      - name: "Kąpiel z suszeniem"
+        price: "70 PLN"
+        duration: "60 min"
+        tags: ["kąpiel", "pielęgnacja"]
+      - name: "Strzyżenie maszynką"
+        price: "100 PLN"
+        duration: "90 min"
+        tags: ["strzyżenie"]
+
+  - name: "Psy duże"
+    description: "powyżej 25 kg"
+    services:
+      - name: "Kąpiel z suszeniem"
+        price: "90 PLN"
+        duration: "75 min"
+        tags: ["kąpiel", "pielęgnacja"]
+      - name: "Strzyżenie maszynką"
+        price: "120 PLN"
+        duration: "120 min"
+        tags: ["strzyżenie"]
+
+extras:
+  - name: "Przycinanie pazurów"
+    price: "20 PLN"
+    duration: "10 min"
+  - name: "Czyszczenie uszu"
+    price: "15 PLN"
+    duration: "10 min"
+  - name: "Wyrywanie sierści z uszu"
+    price: "20 PLN"
+    duration: "15 min"

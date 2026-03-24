@@ -1,0 +1,65 @@
+# Don Piesko - Polskie tłumaczenia
+
+# Ogólne
+footer_copyright: "Wszelkie prawa zastrzeżone."
+powered_by: "Wspierane przez"
+before: "Przed"
+after: "Po"
+all: "Wszystkie"
+close: "Zamknij"
+previous: "Poprzednia"
+lightbox_label: "Podgląd zdjęcia"
+main_navigation: "Nawigacja główna"
+language_switch: "Zmiana języka"
+
+# O nas
+about_us: "O nas"
+our_values: "Nasze wartości"
+values_heading: "Dlaczego my?"
+our_team: "Nasz zespół"
+team_heading: "Poznaj nas bliżej"
+
+# Blog
+blog: "Blog"
+read_more: "Czytaj dalej"
+min_read: "min czytania"
+back_to_blog: "Wróć do bloga"
+related_posts: "Powiązane artykuły"
+no_posts: "Brak artykułów."
+prev: "Poprzednia"
+next: "Następna"
+pagination: "Nawigacja stron"
+
+# Opinie
+stars_of_5: "z 5 gwiazdek"
+
+# Cennik
+filter_by_category: "Filtruj według kategorii"
+service: "Usługa"
+duration: "Czas"
+price: "Cena"
+
+# Galeria
+ba_slider_label: "Porównanie przed i po. Przeciągnij suwak, aby porównać."
+ba_handle_label: "Suwak porównania"
+
+# FAQ
+faq: "FAQ"
+faq_heading: "Najczęściej zadawane pytania"
+
+# Lokalizacja
+location: "Lokalizacja"
+address: "Adres"
+contact: "Kontakt"
+opening_hours: "Godziny otwarcia"
+closed: "Zamknięte"
+open_in_google_maps: "Otwórz w Google Maps"
+map_aria_label: "Mapa z lokalizacją"
+status_open: "Teraz otwarte"
+status_closed: "Teraz zamknięte"
+status_closing_soon: "Zamykamy wkrótce"
+
+# Cookie Consent
+cookie_message: "Nasza strona zbiera ciastka, ale w przeciwieństwie do Twojego pieska - nie zostawiamy po sobie okruszków na kanapie!"
+cookie_accept: "Akceptuj"
+cookie_decline: "Odrzuć"
