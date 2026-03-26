@@ -1,47 +1,117 @@
+# Cennik obowiązujący od 01.02.2025
 categories:
-  - name: "Psy małe"
-    description: "do 10 kg"
+  # Psy krótkowłose
+  - name: "Psy krótkowłose"
+    description: "Dwuetapowa pielęgnacja: kąpiel + wyczesanie"
     services:
-      - name: "Kąpiel z suszeniem"
-        price: "50 PLN"
-        duration: "45 min"
-        tags: ["kąpiel", "pielęgnacja"]
-      - name: "Strzyżenie maszynką"
-        price: "80 PLN"
-        duration: "60 min"
-        tags: ["strzyżenie"]
-
-  - name: "Psy średnie"
-    description: "10-25 kg"
-    services:
-      - name: "Kąpiel z suszeniem"
-        price: "70 PLN"
-        duration: "60 min"
-        tags: ["kąpiel", "pielęgnacja"]
-      - name: "Strzyżenie maszynką"
-        price: "100 PLN"
-        duration: "90 min"
-        tags: ["strzyżenie"]
-
-  - name: "Psy duże"
-    description: "powyżej 25 kg"
-    services:
-      - name: "Kąpiel z suszeniem"
-        price: "90 PLN"
-        duration: "75 min"
-        tags: ["kąpiel", "pielęgnacja"]
-      - name: "Strzyżenie maszynką"
+      - name: "Małe rasy"
         price: "120 PLN"
-        duration: "120 min"
-        tags: ["strzyżenie"]
+        duration: "Pinczer, Chihuahua, Jamnik, Jack Russell Terrier"
+        tags: ["krótkowłose", "małe"]
 
-extras:
-  - name: "Przycinanie pazurów"
-    price: "20 PLN"
-    duration: "10 min"
-  - name: "Czyszczenie uszu"
-    price: "15 PLN"
-    duration: "10 min"
-  - name: "Wyrywanie sierści z uszu"
-    price: "20 PLN"
-    duration: "15 min"
+      - name: "Średnie rasy"
+        price: "130-200 PLN"
+        duration: "Buldog Francuski, Mops, Beagle, Buldog Angielski, Gończy Polski"
+        tags: ["krótkowłose", "średnie"]
+
+      - name: "Duże rasy"
+        price: "130 PLN/h"
+        duration: "Basset, Amstaff, Doberman, Cane Corso, Labrador, Dog Niemieckie"
+        tags: ["krótkowłose", "duże"]
+
+  # Psy długowłose - strzyżenie
+  - name: "Psy długowłose - strzyżenie"
+    description: "Dwuetapowa pielęgnacja: kąpiel + strzyżenie"
+    services:
+      - name: "Yorkshire Terrier"
+        price: "150-180 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "małe"]
+
+      - name: "Maltańczyk"
+        price: "160-180 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "małe"]
+
+      - name: "Pudel miniaturowy"
+        price: "180-200 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "małe"]
+
+      - name: "Pudel średni"
+        price: "220-270 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "średnie"]
+
+      - name: "Maltipoo"
+        price: "170-190 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "małe"]
+
+      - name: "Shih Tzu, Hawańczyk, Lhasa Apso"
+        price: "180-220 PLN"
+        duration: "Bichon, Coton de Tulear, Bolończyk, West Highland West Terrier"
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "Sznaucer"
+        price: "180-200 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "średnie"]
+
+      - name: "Cockapoo"
+        price: "240-300 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "średnie"]
+
+      - name: "Lagotto Romagnolo"
+        price: "280-330 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "średnie"]
+
+      - name: "Labradoodle"
+        price: "300-350 PLN"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "duże"]
+
+      - name: "PON, Sznaucer Olbrzymi, Terier Rosyjski"
+        price: "150 PLN/h"
+        duration: ""
+        tags: ["długowłose", "strzyżenie", "duże"]
+
+  # Psy długowłose - wyczesanie
+  - name: "Psy długowłose - wyczesanie"
+    description: "Dwuetapowa pielęgnacja: kąpiel + wyczesanie"
+    services:
+      - name: "Małe rasy"
+        price: "140-180 PLN"
+        duration: "Chihuahua długowłosy, Szpic miniaturowy"
+        tags: ["długowłose", "wyczesanie", "małe"]
+
+      - name: "Średnie rasy"
+        price: "220-250 PLN"
+        duration: "Cavalier King Charles Spaniel, Spaniel Angielski/Amerykański (cena dotyczy także trymowania)"
+        tags: ["długowłose", "wyczesanie", "średnie"]
+
+      - name: "Duże rasy"
+        price: "140 PLN/h"
+        duration: "Golden Retriever, Seter Irlandzki, Border Collie, Owczarek Niemiecki długowłosy, Samoyed, Husky, Alaskan Malamut, Berneński Pies Pasterski, Nowofundland"
+        tags: ["długowłose", "wyczesanie", "duże"]
+
+  # Trymowanie
+  - name: "Trymowanie"
+    description: "Ręczne usuwanie martwego włosa"
+    services:
+      - name: "Małe rasy"
+        price: "110 PLN/h"
+        duration: ""
+        tags: ["trymowanie", "małe"]
+
+      - name: "Średnie rasy"
+        price: "120 PLN/h"
+        duration: ""
+        tags: ["trymowanie", "średnie"]
+
+      - name: "Duże rasy"
+        price: "130 PLN/h"
+        duration: ""
+        tags: ["trymowanie", "duże"]
