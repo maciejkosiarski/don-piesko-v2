@@ -15,7 +15,7 @@ sections:
     cta_secondary:
       text: "Zobacz cennik"
       url: "/cennik/"
-    image: "/images/hero-dog.jpg"
+    image: "/images/don-piesko-group-1.png"
     stats:
       - value: "1000+"
         label: "zadowolonych piesków"

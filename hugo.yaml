@@ -80,17 +80,17 @@ params:
   # Google Tag Manager
   gtm:
     id: "GTM-WG7FJQDM"
-  # Custom colors (optional) - uncomment to override default theme colors
-  # colors:
-  #   primary: "#3B5C45"      # Main brand color (buttons, links, accents)
-  #   primary_light: "#4A7257"
-  #   primary_pale: "#E8F0EA"
-  #   accent: "#C4714A"       # Secondary accent color (CTAs, highlights)
-  #   accent_dark: "#B5633D"
-  #   accent_pale: "#F5E6E0"
-  #   background: "#FAF7F0"   # Page background color
-  #   text: "#2D2D2D"         # Main text color
-  #   text_muted: "#6B6B6B"   # Secondary text color
+  # Custom colors - matching old don-piesko site
+  colors:
+    primary: "#c45d07"
+    primary_light: "#5a52d4"
+    primary_pale: "#e8e7f8"
+    accent: "#e66f08"
+    accent_dark: "#c45d07"
+    accent_pale: "#fce8d9"
+    background: "#ffffff"     # White background
+    text: "#2D2D2D"
+    text_muted: "#6B6B6B"
   # SEO & Business Info
   business:
     name: "Don Piesko - Psi Fryzjer"
