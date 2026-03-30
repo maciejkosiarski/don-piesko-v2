@@ -15,6 +15,12 @@ languages:
         dot: true
       business:
         name: "Don Piesko - Psi Fryzjer"
+      error_404:
+        title: "Ups! Strona nie znaleziona"
+        description: "Strona, której szukasz, nie istnieje lub została przeniesiona. Wróć do strony głównej lub skorzystaj z poniższych linków."
+        show_links: true
+        show_recent_posts: false
+      opening_hours: "Pn-Pt 8:00-16:00"
       footer:
         description: "Profesjonalna pielęgnacja Twoich pupili"
         columns:
@@ -106,5 +112,29 @@ params:
     lat: 51.22288716896724
     lng: 22.49664130785081
     start_year: 2022
+    # Customer ratings (optional) - for AggregateRating schema
+    rating:
+      value: 5.0
+      count: 47
+      best: 5
+    # Key Facts section (optional)
+    specialties:
+      - "Strzyżenie psów krótkowłosych"
+      - "Strzyżenie psów długowłosych"
+      - "Wyczesywanie i pielęgnacja"
+      - "Trymowanie ras sierściowych"
+    parking: "Parking przy ulicy Kryształowej"
+    payment_methods:
+      - "Gotówka"
+      - "BLIK"
+      - "Przelew"
+    languages:
+      - "Polski"
+      - "Angielski"
   # Open Graph image
   og_image: "/images/og-default.jpg"
+  # Image optimization settings
+  images:
+    quality: 85
+    widths: [400, 800, 1200, 1600]
+    lazy_loading: true

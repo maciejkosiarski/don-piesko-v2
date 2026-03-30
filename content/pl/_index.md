@@ -19,8 +19,6 @@ sections:
     stats:
       - value: "1000+"
         label: "zadowolonych piesków"
-      - value: "2022"
-        label: "rok założenia"
       - value: "5.0"
         label: "ocena Google"
 

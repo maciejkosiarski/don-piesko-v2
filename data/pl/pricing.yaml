@@ -6,17 +6,17 @@ categories:
     services:
       - name: "Małe rasy"
         price: "120 PLN"
-        duration: "Pinczer, Chihuahua, Jamnik, Jack Russell Terrier"
+        description: "Pinczer, Chihuahua, Jamnik, Jack Russell Terrier"
         tags: ["krótkowłose", "małe"]
 
       - name: "Średnie rasy"
         price: "130-200 PLN"
-        duration: "Buldog Francuski, Mops, Beagle, Buldog Angielski, Gończy Polski"
+        description: "Buldog Francuski, Mops, Beagle, Buldog Angielski, Gończy Polski"
         tags: ["krótkowłose", "średnie"]
 
       - name: "Duże rasy"
         price: "130 PLN/h"
-        duration: "Basset, Amstaff, Doberman, Cane Corso, Labrador, Dog Niemieckie"
+        description: "Basset, Amstaff, Doberman, Cane Corso, Labrador, Dog Niemieckie"
         tags: ["krótkowłose", "duże"]
 
   # Psy długowłose - strzyżenie
@@ -25,57 +25,87 @@ categories:
     services:
       - name: "Yorkshire Terrier"
         price: "150-180 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "małe"]
 
       - name: "Maltańczyk"
         price: "160-180 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "małe"]
 
       - name: "Pudel miniaturowy"
         price: "180-200 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "małe"]
 
       - name: "Pudel średni"
         price: "220-270 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "średnie"]
 
       - name: "Maltipoo"
         price: "170-190 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "małe"]
 
-      - name: "Shih Tzu, Hawańczyk, Lhasa Apso"
+      - name: "Shih Tzu"
         price: "180-220 PLN"
-        duration: "Bichon, Coton de Tulear, Bolończyk, West Highland West Terrier"
+        description: ""
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "Hawańczyk"
+        price: "180-220 PLN"
+        description: ""
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "Lhasa Apso"
+        price: "180-220 PLN"
+        description: ""
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "Bichon"
+        price: "180-220 PLN"
+        description: ""
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "Coton de Tulear"
+        price: "180-220 PLN"
+        description: ""
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "Bolończyk"
+        price: "180-220 PLN"
+        description: ""
+        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
+
+      - name: "West Highland West Terrier"
+        price: "180-220 PLN"
+        description: ""
         tags: ["długowłose", "strzyżenie", "małe", "średnie"]
 
       - name: "Sznaucer"
         price: "180-200 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "średnie"]
 
       - name: "Cockapoo"
         price: "240-300 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "średnie"]
 
       - name: "Lagotto Romagnolo"
         price: "280-330 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "średnie"]
 
       - name: "Labradoodle"
         price: "300-350 PLN"
-        duration: ""
+        description: ""
         tags: ["długowłose", "strzyżenie", "duże"]
 
-      - name: "PON, Sznaucer Olbrzymi, Terier Rosyjski"
+      - name: "Duże rasy"
         price: "150 PLN/h"
-        duration: ""
+        description: "PON, Sznaucer Olbrzymi, Terier Rosyjski"
         tags: ["długowłose", "strzyżenie", "duże"]
 
   # Psy długowłose - wyczesanie
@@ -84,17 +114,17 @@ categories:
     services:
       - name: "Małe rasy"
         price: "140-180 PLN"
-        duration: "Chihuahua długowłosy, Szpic miniaturowy"
+        description: "Chihuahua długowłosy, Szpic miniaturowy"
         tags: ["długowłose", "wyczesanie", "małe"]
 
       - name: "Średnie rasy"
         price: "220-250 PLN"
-        duration: "Cavalier King Charles Spaniel, Spaniel Angielski/Amerykański (cena dotyczy także trymowania)"
+        description: "Cavalier King Charles Spaniel, Spaniel Angielski/Amerykański (cena dotyczy także trymowania)"
         tags: ["długowłose", "wyczesanie", "średnie"]
 
       - name: "Duże rasy"
         price: "140 PLN/h"
-        duration: "Golden Retriever, Seter Irlandzki, Border Collie, Owczarek Niemiecki długowłosy, Samoyed, Husky, Alaskan Malamut, Berneński Pies Pasterski, Nowofundland"
+        description: "Golden Retriever, Seter Irlandzki, Border Collie, Owczarek Niemiecki długowłosy, Samoyed, Husky, Alaskan Malamut, Berneński Pies Pasterski, Nowofundland"
         tags: ["długowłose", "wyczesanie", "duże"]
 
   # Trymowanie
@@ -103,15 +133,15 @@ categories:
     services:
       - name: "Małe rasy"
         price: "110 PLN/h"
-        duration: ""
+        description: ""
         tags: ["trymowanie", "małe"]
 
       - name: "Średnie rasy"
         price: "120 PLN/h"
-        duration: ""
+        description: ""
         tags: ["trymowanie", "średnie"]
 
       - name: "Duże rasy"
         price: "130 PLN/h"
-        duration: ""
+        description: ""
         tags: ["trymowanie", "duże"]
