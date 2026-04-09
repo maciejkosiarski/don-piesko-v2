@@ -9,9 +9,9 @@ image = "/images/luna-shih-tzu.jpg"
 toc = true
 +++
 
-***🐾 „Szczęście to ciepły szczeniaczek."*** – Charles M. Schulz, autor Fistaszków
+Szczęście to ciepły szczeniaczek. – Charles M. Schulz, autor Fistaszków
 
-Shih Tzu - piesek, który ma więcej włosów niż mój mąż przed czterdziestką! 🐕
+Shih Tzu - piesek, który ma więcej włosów niż mój mąż przed czterdziestką!
 Czy wiesz, że Shih Tzu po chińsku oznacza "lwiątko"? Ale jeśli widzisz swojego pupila po dwóch tygodniach bez wizyty u groomera, prawdopodobnie przypomina bardziej wędrującą miotłę niż króla dżungli! Nie martw się - to normalne dla tej przepięknej rasy.
 
 ## Historia
@@ -52,8 +52,6 @@ Ważna informacja o szczeniętach: Nigdy nie strzyż młodego Shih Tzu na krótk
 ## Co robimy w salonie Donpiesko
 W naszym lubelskim salonie Shih Tzu to nasi stali bywalcy, więc wiemy dokładnie, czego potrzebują te małe lwiatka! A także... jak unikać niespodzianek podczas pielęgnacji.
 
-Prawda groomerska: Te słodkie pieski mają talent do kichania prosto w twarz podczas pracy przy mordce! To przez ich płaską mordkę - ale nie martw się, jesteśmy przygotowani na takie psie "powitania" 😊
-
 ## Pełny pakiet pielęgnacyjny obejmuje:
 
 ### Strzyżenie i stylizacja:
@@ -92,7 +90,7 @@ Kołtuny najczęściej „budują się” za uszami, pod pachami i na łapkach. 
 
 ### 4. Ile kosztuje pełna pielęgnacja Shih Tzu w Lublinie?
 
-Ceny różnią się w zależności od zakresu usług. W Don Piesko oferujemy konkurencyjne ceny dla kompleksowej pielęgnacji shih-tzu w Lublinie. Dla pewności możesz sprawdzić nasz aktualny cennik [tutaj](/cennik.pdf)
+Ceny różnią się w zależności od zakresu usług. W Don Piesko oferujemy konkurencyjne ceny dla kompleksowej pielęgnacji shih-tzu w Lublinie. Dla pewności możesz sprawdzić nasz aktualny cennik [tutaj](/cennik).
 
 ### 5. Czy mój piesek może wrócić z inną fryzurą, niż uzgodniliśmy?
 W Donpiesko stawiamy na konsultację przed każdą fryzurą! Jedyny wyjątek? Jeśli Twój Shih Tzu postanowi niespodziewanie… zamienić się w chodzącą kulę filcu i potrzebne będzie większe „cięcie ratunkowe”. Zawsze jednak dzwonimy do opiekuna i ustalamy najlepsze wyjście – u nas żadnych „fryzjerskich dramatów za plecami”!

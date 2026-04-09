@@ -49,7 +49,7 @@ sections:
     label: "Blog"
     heading: "Porady dla właścicieli psów"
     description: "Praktyczne wskazówki dotyczące pielęgnacji i zdrowia Twojego pupila."
-    limit: 3
+    limit: 4
     cta:
       text: "Wszystkie artykuły"
       url: "/blog/"
@@ -66,6 +66,6 @@ sections:
     heading: "Gotowy na wizytę?"
     description: "Zadzwoń i umów się na termin, który Ci odpowiada."
     cta:
-      text: "Zadzwoń: +48 509 212 552"
+      text: "Zadzwoń teraz"
       url: "tel:+48509212552"
 ---

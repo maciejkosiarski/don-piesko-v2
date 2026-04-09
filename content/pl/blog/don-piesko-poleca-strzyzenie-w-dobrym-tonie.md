@@ -5,6 +5,7 @@ date = "2025-08-01"
 categories = ["strzyżenie w dobrym rytmie"]
 tags = ["muzyka"]
 toc = true
+draft = true
 +++
 
 <!-- title = "Don Piesko poleca: Nutki z Fryzjerskiego Blatu" -->

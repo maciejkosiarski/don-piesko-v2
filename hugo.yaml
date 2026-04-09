@@ -37,8 +37,9 @@ languages:
           - title: "Informacje"
             links:
               - name: "Polityka prywatności"
-                url: "/documents/polityka-prywatnosci.pdf"
-                external: true
+                url: "/polityka-prywatnosci/"
+              - name: "Regulamin"
+                url: "/regulamin.pdf"
           - title: "Kontakt"
             type: "contact"
         social:
@@ -88,8 +89,8 @@ params:
     id: "GTM-WG7FJQDM"
   # Custom colors - matching old don-piesko site
   colors:
-    primary: "#c45d07"
-    primary_light: "#5a52d4"
+    primary: "#40444d"
+    primary_light: "#e66f08"
     primary_pale: "#e8e7f8"
     accent: "#e66f08"
     accent_dark: "#c45d07"
@@ -135,6 +136,6 @@ params:
   og_image: "/images/og-default.jpg"
   # Image optimization settings
   images:
-    quality: 85
+    quality: 100
     widths: [400, 800, 1200, 1600]
     lazy_loading: true

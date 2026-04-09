@@ -8,7 +8,7 @@ image = "/images/ponka.jpg"
 toc = true
 +++
 
-***🐾 „Opieka nad psem to nie tylko obowiązek, to również przywilej."*** – autor nieznany
+Opieka nad psem to nie tylko obowiązek, to również przywilej. – autor nieznany
 
 Czy pamiętasz moment, gdy Twój pies pierwszy raz zobaczył szczotkę? Pewnie pomyślał sobie: "O nie, znowu ta dziwna maszynka do wytwarzania kłaczków!"  A może jednak problem leży gdzie indziej? Po latach pracy z lubelskimi psikami mogę powiedzieć jedno - większość problemów z pielęgnacją to efekt prostych błędów, które łatwo naprawić.
 
@@ -65,5 +65,5 @@ Kluczowe składniki dla zdrowej sierści:
 
 Pamiętaj, że prawidłowa pielęgnacja to nie tylko kwestia wyglądu, ale przede wszystkim zdrowia i komfortu. Każdy pies zasługuje na poczucie, że jest najpiękniejszym stworzeniem w Lublinie (i nie tylko)!
 
-Jeśli masz wątpliwości lub Twój piesek potrzebuje profesjonalnej pomocy, zapraszam do Don Piesko 📞 [+48 509 212 552](tel:+48 509 212 552) - razem sprawimy, że Twój czworonóg będzie błyszczeć jak gwiazda Starego Miasta! 🐕✨
+Jeśli masz wątpliwości lub Twój piesek potrzebuje profesjonalnej pomocy, zapraszam do Don Piesko 📞 [+48 509 212 552](tel:+48 509 212 552) - razem sprawimy, że Twój czworonóg będzie błyszczeć jak gwiazda!
 

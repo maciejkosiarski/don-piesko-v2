@@ -7,7 +7,7 @@ image = "/images/dyzio.jpg"
 toc = true
 +++
 
- ***🐾 „Pielęgnacja to nie tylko wygląd – to także komfort i zdrowie Twojego pupila."*** – anonim
+ Pielęgnacja to nie tylko wygląd – to także komfort i zdrowie Twojego pupila. – anonim
 
 Pamiętasz moment, gdy Twój pies po raz pierwszy zobaczył nożyczki groomera? Ta mina mówiła jasno: „To jakieś nieporozumienie!" Ale prawda jest taka, że strzyżenie to nie kaprys właściciela - to inwestycja w psie zdrowie i komfort. Tak, Twój piesek może początkowo wyglądać jak zaskoczony, ale efekty szybko przemówią za siebie!
 
@@ -45,9 +45,9 @@ Krótsza sierść ułatwia zauważanie pasożytów, takich jak pchły czy kleszc
 
 Niektóre rasy, takie jak shih tzu czy maltańczyki, mają tendencję do zarastania sierścią okolic oczu, co może ograniczać ich widoczność i prowadzić do podrażnienia spojówek. Podobnie długie futro przy łapach może powodować ślizganie się psa na gładkich powierzchniach, co zwiększa ryzyko kontuzji.
 
-## 🤝 Wzmacnianie relacji z psem
+## Wzmacnianie relacji z psem
 
-Regularne wizyty u groomera to nie tylko pielęgnacja, ale także budowanie zaufania i więzi między Tobą a Twoim pupilem. Pies, który przyzwyczaja się do dotyku, szczotkowania czy strzyżenia, uczy się cierpliwości i lepszego znoszenia zabiegów pielęgnacyjnych, co przekłada się na jego ogólny komfort i spokój. Pozytywne doświadczenia podczas wizyty u groomera sprawiają, że pies czuje się bezpieczny, a Ty masz pewność, że dbasz o jego dobrostan. Regularna pielęgnacja to także świetna okazja do wspólnego rytuału – nagradzając psa po wizycie, wzmacniasz waszą relację i budujesz pozytywne skojarzenia. 🐾💕
+Regularne wizyty u groomera to nie tylko pielęgnacja, ale także budowanie zaufania i więzi między Tobą a Twoim pupilem. Pies, który przyzwyczaja się do dotyku, szczotkowania czy strzyżenia, uczy się cierpliwości i lepszego znoszenia zabiegów pielęgnacyjnych, co przekłada się na jego ogólny komfort i spokój. Pozytywne doświadczenia podczas wizyty u groomera sprawiają, że pies czuje się bezpieczny, a Ty masz pewność, że dbasz o jego dobrostan. Regularna pielęgnacja to także świetna okazja do wspólnego rytuału – nagradzając psa po wizycie, wzmacniasz waszą relację i budujesz pozytywne skojarzenia.
 
 ## Sezonowe potrzeby strzyżenia
 
@@ -61,5 +61,5 @@ Strzyżenie psa to nie tylko kwestia estetyki, ale przede wszystkim zdrowia i ko
 
 Don Piesko to miejsce, gdzie twój czworonożny przyjaciel otrzyma profesjonalną opiekę z lubelskim ciepłem w pakiecie. Bo przecież każdy pies zasługuje na to, żeby wyglądać i czuć się świetnie - niezależnie od tego, czy spaceruje przy Zalewie Zemborzyckim, czy bawi się w Saskim!
 
-![Nestor](/images/nestor.avif)
+![Nestor](/images/nestor.jpg)
 

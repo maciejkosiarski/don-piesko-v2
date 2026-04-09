@@ -3,15 +3,16 @@ author = "Don Piesko"
 title = "Yorkshire terier - kompletny przewodnik po rasie"
 subtitle = "Mały Książę z Charakterem Cesarza"
 date = "2025-09-01"
+description = "Charakter yorka to mieszanka przeciwności, która fascynuje właścicieli na całym świecie."
 categories = ["pielęgnacja", "rasowe rewelacje"]
 tags = ["terier", "rasa"]
 image = "/images/sisi-york.jpg"
 toc = true
 +++
 
-***🐾 „Jestem podejrzliwy wobec ludzi, którzy nie lubią psów, ale ufam psu, który nie lubi jakiegoś człowieka."*** – Bill Murray
+Jestem podejrzliwy wobec ludzi, którzy nie lubią psów, ale ufam psu, który nie lubi jakiegoś człowieka. – Bill Murray
 
-Czy wiesz, że yorki to prawdziwi mistrzowie kamuflaży? Nie, nie chodzi o ukrywanie się w krzakach - one doskonale udają słodkie pluszaki, podczas gdy w środku drzemie prawdziwy terier-wojownik, gotowy postawić na swoim nawet przed największym psem z sąsiedztwa! W Don Piesko w Lublinie mamy do czynienia z tymi małymi osobowościami niemal codziennie i wiemy jedno - za tą jedwabistą sierścią kryje się prawdziwy charakter!
+Czy wiesz, że yorki to prawdziwi mistrzowie kamuflażu? Nie, nie chodzi o ukrywanie się w krzakach - one doskonale udają słodkie pluszaki, podczas gdy w środku drzemie prawdziwy terier-wojownik, gotowy postawić na swoim nawet przed największym psem z sąsiedztwa! W Don Piesko w Lublinie mamy do czynienia z tymi małymi osobowościami niemal codziennie i wiemy jedno - za tą jedwabistą sierścią kryje się prawdziwy charakter!
 
 ## Historia
 
@@ -23,7 +24,7 @@ Kennel Club oficjalnie uznał rasę w 1886 roku, a pierwszy wzorzec powstał w 1
 
 ## Charakterystyka rasy
 
-Yorkshire terrier to prawdziwy paradoks na czterech łapkach. Z wyglądu wygląda jak żywy pluszak - waży maksymalnie 3,2 kilogramy i mierzy niecałe 24 centymetry w kłębie. Ale nie daj się zwieść tym rozmiarom! W tym małym ciele mieszka dusza prawdziwego terriera, który ma absolutną pewność, że jest największym psem w okolicy.
+Yorkshire terrier to prawdziwy paradoks na czterech łapkach. Z wyglądu wygląda jak żywy pluszak - waży maksymalnie 2-3 kilogramy i mierzy niecałe 24 centymetry w kłębie. Ale nie daj się zwieść tym rozmiarom! W tym małym ciele mieszka dusza prawdziwego terriera, który ma absolutną pewność, że jest największym psem w okolicy.
 
 Budowa yorka jest typowo terrierowa - zwarta, proporcjonalna, z dumnie podniesioną główką i filuternie zakręconym ogonem. Te ciemne, błyszczące oczy to prawdziwe okienka duszy, z których bije inteligencja i psota. Uszy mają kształt litery V i stoją prosto, gotowe wychwycić każdy najcichszy dźwięk - w końcu to potomek łowców!
 
@@ -105,4 +106,4 @@ Przyzwyczajaj go do dotykania łapek, uszu, pyska. Ćwicz stawianie na stoliku i
 
 ### 8. Ile kosztuje profesjonalna pielęgnacja yorka w Lublinie?
 
-Ceny różnią się w zależności od zakresu usług. W Don Piesko oferujemy konkurencyjne ceny dla kompleksowej pielęgnacji yorków w Lublinie. Dla pewności możesz sprawdzić nasz aktualny cennik [tutaj](/cennik.pdf)
+Ceny różnią się w zależności od zakresu usług. W Don Piesko oferujemy konkurencyjne ceny dla kompleksowej pielęgnacji yorków w Lublinie. Dla pewności możesz sprawdzić nasz aktualny cennik [tutaj](/cennik).

@@ -9,7 +9,7 @@ image = "/images/odyn-2.jpg"
 toc = true
 +++
 
-***🐾 „Psy nie są całym naszym życiem, ale sprawiają, że nasze życie staje się pełne."*** – Roger Caras
+Psy nie są całym naszym życiem, ale sprawiają, że nasze życie staje się pełne – Roger Caras
 
 Wyobraź sobie, że podczas popołudniowego spaceru po lubelskim Starym Mieście Twój owczarek niemiecki nagle zaczyna wyznaczać trasę niczym zawodowy przewodnik – w końcu w genach ma troskę o teren! Zanim jednak dasz mu odznakę miejskiego stróża, dowiedz się, jak odpowiednio przygotować go do życia w mieście: od pielęgnacji sierści po zabawy rozwijające umysł.
 
@@ -73,4 +73,4 @@ Mogą mieć skłonność do alergii; przy pierwszych objawach (zaczerwienienie, 
 
 ### 5. Ile kosztuje profesjonalna pielęgnacja owczarka niemieckiego?
 
-Ceny różnią się w zależności od zakresu usług. W Don Piesko oferujemy konkurencyjne ceny dla kompleksowej pielęgnacji owczarków niemieckich w Lublinie. Zwykle za tak duże rasy rozliczamy się w modelu kwota za godzinę pracy. Dla pewności możesz sprawdzić nasz aktualny cennik [tutaj](/cennik.pdf)
+Ceny różnią się w zależności od zakresu usług. W Don Piesko oferujemy konkurencyjne ceny dla kompleksowej pielęgnacji owczarków niemieckich w Lublinie. Zwykle za tak duże rasy rozliczamy się w modelu kwota za godzinę pracy. Dla pewności możesz sprawdzić nasz aktualny cennik [tutaj](/cennik).

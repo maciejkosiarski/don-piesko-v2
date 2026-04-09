@@ -7,7 +7,7 @@ image = "/images/luna.jpg"
 toc = true
 +++
 
-***🐾 „Im bardziej poznaję ludzi, tym bardziej kocham psy."*** – George Bernard Shaw
+Im bardziej poznaję ludzi, tym bardziej kocham psy. – George Bernard Shaw
 
 W poprzednim artykule ["Dlaczego strzyżenie psa to nie tylko kwestia estetyki?”"](/blog/dlaczego-strzyzenie-psa-to-nie-tylko-kwestia-estetyki/) omówiliśmy, jak regularne wizyty u groomera wpływają na zdrowie i komfort pupila. Jednak pielęgnacja nie kończy się na salonie! Aby sierść Twojego psa była lśniąca, miękka i wolna od kołtunów, warto zadbać o nią również w domu. Jak to zrobić? Oto kilka praktycznych wskazówek, które pomogą Ci utrzymać sierść psa w doskonałej kondycji na co dzień!
 
@@ -74,4 +74,4 @@ Co robić?
 
 Codzienna pielęgnacja sierści psa to nie tylko kwestia wyglądu, ale również zdrowia i samopoczucia pupila. Regularne szczotkowanie, odpowiednia dieta i właściwe kosmetyki sprawią, że sierść będzie lśniąca i zdrowa.
 
-🔗 Jeśli szukasz profesjonalnej pielęgnacji, zapraszamy do naszego salonu Don Piesko – najlepszego groomera w Lublinie! Pomożemy Ci zadbać o zdrowie i wygląd Twojego pupila!
+Jeśli szukasz profesjonalnej pielęgnacji, zapraszamy do naszego salonu Don Piesko – najlepszego groomera w Lublinie! Pomożemy Ci zadbać o zdrowie i wygląd Twojego pupila!

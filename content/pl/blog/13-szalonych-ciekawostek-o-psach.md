@@ -7,7 +7,7 @@ image = "/images/funny-dog.jpg"
 toc = true
 +++
 
-***🐾 „Pies to jedyne na świecie stworzenie, które kocha cię bardziej niż siebie."*** – Josh Billings
+Pies to jedyne na świecie stworzenie, które kocha cię bardziej niż siebie. – Josh Billings
 
 Pamiętasz, kiedy dowiedziałeś się, że psy potrafią wyczuć trzęsienie ziemi dzień wcześniej i pomyślałeś: „Skoro Burek jest taki sprytny, to co jeszcze potrafi?" Przygotowaliśmy dla Ciebie 13 szalonych i zaskakujących ciekawostek o psach – świetnych tematów do rozmowy z przyjaciółmi, na spacerze czy przy spotkaniu psiolubów w Lublinie!
 
@@ -63,4 +63,4 @@ Najstarszy pies w historii – Bobi z Portugalii – dożył 30 lat, a najmniejs
 
 Badania wykazały, że psy potrafią wrócić do domu z odległości nawet 20 km, kierując się pamięcią zapachów i wyczuciem pola magnetycznego Ziemi. To niesamowita nawigacja z natury! Dlatego zawsze warto zarejestrować psa w lokalnej klinice i… umówić się na komfortowe czyszczenie po długiej wędrówce – w Don Piesko dbamy o każdy szczegół psiej przygody.
 
-Chcesz, aby Twój psiak poczuł się absolutnie wyjątkowo? Umów się na wizytę w Don Piesko 📞 [+48 509 212 552](tel:+48 509 212 552) – Twój groomer z Lublina zadba o futerko, nastrój i… wyjątkową psio-muzyczną oprawę! 🐾🎶
+Chcesz, aby Twój psiak poczuł się absolutnie wyjątkowo? Umów się na wizytę w Don Piesko 📞 [+48 509 212 552](tel:+48 509 212 552) – Twój groomer z Lublina zadba o wszystko!
