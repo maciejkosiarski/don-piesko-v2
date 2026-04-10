@@ -1,0 +1,33 @@
+name: Deploy Hugo site
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.152.2"
+          extended: true
+      - name: Build Hugo site
+        run: hugo --minify --gc
+      - name: Deploy via rsync over SSH
+        uses: burnett01/rsync-deployments@5.2
+        with:
+          switches: -avzr --delete
+          path: public/
+          remote_path: ${{ secrets.DEPLOY_DIRECTORY }}
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
