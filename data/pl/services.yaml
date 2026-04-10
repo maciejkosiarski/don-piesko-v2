@@ -1,15 +1,15 @@
-- title: "Strzyżenie"
-  description: "Profesjonalne strzyżenie dostosowane do rasy i indywidualnych potrzeb Twojego pupila"
+- name: "Strzyżenie"
+  description: "Precyzyjne cięcie, które nadaje charakter. Stylizacja dopasowana do rasy i temperamentu Twojego pupila – dbamy o to, by każda linia była idealna, a efekt budził szacunek na każdym spacerze."
   icon: "scissors"
   featured: true
 
-- title: "Kąpiel i suszenie"
-  description: "Kompleksowa kąpiel z użyciem profesjonalnych kosmetyków dopasowanych do typu sierści"
+- name: "Odświeżenie i Blask"
+  description: "Kompleksowa kąpiel w standardzie premium. Używamy profesjonalnych kosmetyków, które traktują skórę Twojego psa z najwyższą troską, pozostawiając sierść nienagannie czystą i lśniącą."
   icon: "droplet"
   featured: true
 
-- title: "Trymowanie"
-  description: "Fachowe trymowanie dla ras wymagających tej metody pielęgnacji sierści"
+- name: "Fachowe Trymowanie"
+  description: "Specjalistyczna usługa dla ras o twardym charakterze i włosie. Usuwamy martwą okrywę zgodnie z najwyższymi zasadami groomerskiego rzemiosła, dbając o zdrowie i naturalny wygląd Twojego przyjaciela."
   icon: "hand"
   featured: false
 

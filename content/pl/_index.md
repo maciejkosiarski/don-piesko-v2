@@ -28,21 +28,21 @@ sections:
     heading: "Kompleksowa pielęgnacja dla Twojego pupila"
     description: "Oferujemy pełen zakres usług groomerskich dostosowanych do potrzeb każdej rasy."
 
-  - type: before-after
-    enabled: true
-    label: "Metamorfozy"
-    heading: "Zobacz efekty naszej pracy"
-    description: "Galeria przemian naszych podopiecznych."
-    cta:
-      text: "Zobacz więcej"
-      url: "/galeria/"
-    limit: 3
+  # - type: before-after
+  #   enabled: true
+  #   label: "Metamorfozy"
+  #   heading: "Zobacz efekty naszej pracy"
+  #   description: "Galeria przemian naszych podopiecznych."
+  #   cta:
+  #     text: "Zobacz więcej"
+  #     url: "/galeria/"
+  #   limit: 3
 
   - type: testimonials
     enabled: true
     label: "Opinie klientów"
     heading: "Co mówią o nas właściciele pupili"
-    description: "Zaufało nam już ponad 2000 klientów."
+    description: "Zaufało nam już ponad 1000 klientów."
 
   - type: blog-preview
     enabled: true
@@ -59,7 +59,7 @@ sections:
     label: "FAQ"
     heading: "Najczęściej zadawane pytania"
     description: "Odpowiedzi na pytania dotyczące naszych usług i wizyt w salonie."
-    limit: 6
+    limit: 10
 
   - type: cta-banner
     enabled: true

@@ -30,10 +30,12 @@ languages:
                 url: "/o-nas/"
               - name: "Cennik"
                 url: "/cennik/"
-              - name: "Galeria"
-                url: "/galeria/"
+              - name: "Kontakt"
+                url: "/lokalizacja/"
               - name: "FAQ"
                 url: "/faq/"
+              - name: "Porady"
+                url: "/blog/"
           - title: "Informacje"
             links:
               - name: "Polityka prywatności"
@@ -56,9 +58,9 @@ languages:
         - name: "Cennik"
           url: "/cennik/"
           weight: 2
-        - name: "Galeria"
-          url: "/galeria/"
-          weight: 3
+        # - name: "Galeria"
+        #   url: "/galeria/"
+        #   weight: 3
         - name: "FAQ"
           url: "/faq/"
           weight: 4
