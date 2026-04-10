@@ -93,7 +93,7 @@ params:
   colors:
     primary: "#40444d"
     primary_light: "#e66f08"
-    primary_pale: "#e8e7f8"
+    primary_pale: "#ffb879"
     accent: "#e66f08"
     accent_dark: "#c45d07"
     accent_pale: "#fce8d9"

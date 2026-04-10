@@ -112,14 +112,24 @@ categories:
   - name: "Psy długowłose - wyczesanie"
     description: "Dwuetapowa pielęgnacja: kąpiel + wyczesanie"
     services:
-      - name: "Małe rasy"
+      - name: "Chihuahua długowłosy"
         price: "140-180 PLN"
-        description: "Chihuahua długowłosy, Szpic miniaturowy"
+        description: ""
         tags: ["długowłose", "wyczesanie", "małe"]
 
-      - name: "Średnie rasy"
+      - name: "Szpic miniaturowy"
+        price: "140-180 PLN"
+        description: ""
+        tags: ["długowłose", "wyczesanie", "małe"]
+
+      - name: "Cavalier King Charles Spaniel"
         price: "220-250 PLN"
-        description: "Cavalier King Charles Spaniel, Spaniel Angielski/Amerykański (cena dotyczy także trymowania)"
+        description: ""
+        tags: ["długowłose", "wyczesanie", "średnie"]
+
+      - name: "Spaniel Angielski/Amerykański (cena dotyczy także trymowania)"
+        price: "260-400 PLN"
+        description: ""
         tags: ["długowłose", "wyczesanie", "średnie"]
 
       - name: "Duże rasy"
