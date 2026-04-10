@@ -1,15 +1,23 @@
-- title: "Miłość do zwierząt"
-  description: "Każdy pupil traktowany jest jak nasz własny. Dbamy o komfort i bezpieczeństwo podczas każdej wizyty."
+- title: "Lojalność i Miłość"
+  description: "W naszej rodzinie każdy pupil traktowany jest z najwyższym szacunkiem, jak nasz własny. To nie tylko usługa – to obietnica, że Twój przyjaciel otrzyma u nas opiekę, na jaką zasługuje."
   icon: "heart"
 
-- title: "Profesjonalizm"
-  description: "Stosujemy najwyższej jakości kosmetyki i sprzęt profesjonalny. Ciągłe szkolenia i rozwój umiejętności."
+- title: "Zasady i Profesjonalizm"
+  description: "Działamy według najwyższych standardów. Wykorzystujemy tylko sprzęt i kosmetyki z najwyższej półki, bo wiemy, że na profesjonalizmie nie wolno oszczędzać. Stale szlifujemy fach w ręku, by być najlepszymi w swoim fachu."
   icon: "award"
 
-- title: "Indywidualne podejście"
-  description: "Każdy pies jest inny. Dostosowujemy usługi do rasy, charakteru i potrzeb Twojego pupila."
+- title: "Indywidualne Przymierze"
+  description: "Każdy pies ma swój charakter i swoją historię. Nie stosujemy rozwiązań hurtowych – dostosowujemy stylizację i sposób pracy do rasy, temperamentu i unikalnych potrzeb Twojego pupila."
   icon: "users"
 
-- title: "Bezpieczeństwo"
-  description: "Bezpieczne metody pracy bez stresu. Nie używamy środków uspokajających, stawiamy na cierpliwość."
+- title: "Kodeks Bezpieczeństwa"
+  description: "Spokój i zaufanie to nasza baza. Stosujemy wyłącznie bezpieczne metody pracy bez grama stresu. Nie uznajemy środków uspokajających – naszą jedyną bronią jest cierpliwość i opanowanie."
   icon: "shield"
+
+- title: "Zaufanie i Reputacja"
+  description: "Ponad 1000 obsłużonych klientów to dowód na to, że dotrzymujemy słowa. W Lublinie nasza marka kojarzy się z solidnością – budujemy relacje oparte na zaufaniu, które zostaje w rodzinie na lata."
+  icon: "handshake"
+
+- title: "Dyskrecja i Komfort"
+  description: "Twój pupil zasługuje na ekskluzywne traktowanie. Zapewniamy kameralne warunki, w których każdy pies może czuć się swobodnie, z dala od zgiełku, będąc pod opieką kogoś, kto dba o jego prywatną strefę komfortu."
+  icon: "home"
