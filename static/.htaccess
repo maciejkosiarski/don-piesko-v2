@@ -1,0 +1,49 @@
+# Cache with fingerprinting - safe for Hugo
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # CSS/JS with hashes (e.g. main.min.36833af.css) - cache 1 year
+  # When file changes, Hugo generates NEW hash = new URL = no cache issues!
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+
+  # Images - 1 week (shorter cache for planned optimization)
+  ExpiresByType image/jpeg "access plus 1 week"
+  ExpiresByType image/png "access plus 1 week"
+  ExpiresByType image/webp "access plus 1 week"
+  ExpiresByType image/svg+xml "access plus 1 week"
+  ExpiresByType image/gif "access plus 1 week"
+
+  # Fonts - 1 year (rarely change)
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType font/woff "access plus 1 year"
+  ExpiresByType application/font-woff2 "access plus 1 year"
+
+  # HTML - SHORT cache (1 hour)
+  # This ensures users quickly get new URLs to CSS/JS after deployment
+  ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+
+# Modern Cache-Control headers (better than Expires)
+<IfModule mod_headers.c>
+  # CSS/JS with fingerprint - immutable (never changes for this URL)
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # Images - 1 week (604800 seconds)
+  <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+
+  # Fonts - immutable (rarely change)
+  <FilesMatch "\.(woff|woff2|ttf|eot)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # HTML - must revalidate after 1 hour
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=3600, must-revalidate"
+  </FilesMatch>
+</IfModule>
