@@ -2,6 +2,7 @@ baseURL: https://donpiesko.pl/
 defaultContentLanguage: pl
 defaultContentLanguageInSubdir: false
 disableLanguages: ["en"]
+theme: localcraft
 languages:
   pl:
     languageName: Polski
@@ -72,8 +73,6 @@ languages:
           weight: 6
 languageCode: pl-PL
 
-theme: localcraft
-
 taxonomies:
   tag: tags
   category: categories
@@ -110,7 +109,7 @@ params:
     phone: "+48 509 212 552"
     email: "kontakt@donpiesko.pl"
     street: "Kryształowa 19/2"
-    city: "Lublin"
+    city: "Lublin - Węglin"
     postalCode: "21-030"
     country: "PL"
     tax_ids:
