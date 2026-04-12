@@ -82,6 +82,7 @@ pagination:
   pagerSize: 6
 
 params:
+  review_url: "https://g.page/r/Cf7RUYNLwRBpEAE/review"
   favicon: "/favicon.png"
   logo:
     name: "Don Piesko"
@@ -112,6 +113,11 @@ params:
     city: "Lublin"
     postalCode: "21-030"
     country: "PL"
+    tax_ids:
+      - label: "NIP"
+        value: "9222980452"
+      - label: "REGON"
+        value: "522830944"
     # Coordinates for map and JSON-LD
     lat: 51.22288716896724
     lng: 22.49664130785081
