@@ -30,7 +30,7 @@ languages:
                 url: "/o-nas/"
               - name: "Cennik"
                 url: "/cennik/"
-              - name: "Kontakt"
+              - name: "Lokalizacja"
                 url: "/lokalizacja/"
               - name: "FAQ"
                 url: "/faq/"
@@ -67,7 +67,7 @@ languages:
         - name: "Blog"
           url: "/blog/"
           weight: 5
-        - name: "Kontakt"
+        - name: "Lokalizacja"
           url: "/lokalizacja/"
           weight: 6
 languageCode: pl-PL
