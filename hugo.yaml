@@ -15,7 +15,7 @@ languages:
         name: "Don Piesko"
         dot: true
       business:
-        name: "Don Piesko - Psi Fryzjer"
+        name: "Don Piesko Psi Fryzjer - Lublin - Węglin"
       error_404:
         title: "Ups! Strona nie znaleziona"
         description: "Strona, której szukasz, nie istnieje lub została przeniesiona. Wróć do strony głównej lub skorzystaj z poniższych linków."
