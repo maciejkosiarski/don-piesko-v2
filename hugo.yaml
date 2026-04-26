@@ -73,6 +73,11 @@ languages:
           weight: 6
 languageCode: pl-PL
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 taxonomies:
   tag: tags
   category: categories

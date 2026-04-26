@@ -1,157 +1,433 @@
-# Cennik obowiązujący od 01.02.2025
+# Cennik obowiązujący od 01.05.2026
 categories:
-  # Psy krótkowłose
-  - name: "Psy krótkowłose"
-    description: "Dwuetapowa pielęgnacja: kąpiel + wyczesanie"
+  - name: "Kundelki"
+    description: "Ze względu na niezwykłą różnorodność kundelków - cena usługi ustalana jest indywidualnie. Zapraszamy na konsultację w salonie lub kontakt telefoniczny (prosimy o przesłanie aktualnego zdjęcia pieska)."
+    services:
+      - name: "Kundelek"
+        price: "indywidualnie"
+        description: "Prosimy o przesłanie aktualnego zdjęcia pieska"
+        tags: ["kundelki"]
+
+  - name: "Szczeniaczki"
+    description: "Do 4. miesiąca życia. Warunkiem przyjęcia jest komplet szczepień. Wizyta obejmuje: obcinanie pazurków, czyszczenie uszu, zapoznanie z kąpielą i suszeniem, oswojenie z dźwiękiem maszynki, podcięcie pyszczka, łapek oraz przy pupce."
     services:
       - name: "Małe rasy"
-        price: "120 PLN"
-        description: "Pinczer, Chihuahua, Jamnik, Jack Russell Terrier"
-        tags: ["krótkowłose", "małe"]
+        price: "130 zł"
+        description: ""
+        tags: ["szczeniaczki", "małe"]
 
       - name: "Średnie rasy"
-        price: "130-200 PLN"
-        description: "Buldog Francuski, Mops, Beagle, Buldog Angielski, Gończy Polski"
-        tags: ["krótkowłose", "średnie"]
+        price: "150 zł"
+        description: ""
+        tags: ["szczeniaczki", "średnie"]
 
       - name: "Duże rasy"
-        price: "130 PLN/h"
-        description: "Basset, Amstaff, Doberman, Cane Corso, Labrador, Dog Niemieckie"
-        tags: ["krótkowłose", "duże"]
+        price: "170 zł"
+        description: ""
+        tags: ["szczeniaczki", "duże"]
 
-  # Psy długowłose - strzyżenie
-  - name: "Psy długowłose - strzyżenie"
-    description: "Dwuetapowa pielęgnacja: kąpiel + strzyżenie"
+  - name: "Rasy wymagające strzyżenia"
+    description: "Kąpiel + strzyżenie"
     services:
-      - name: "Yorkshire Terrier"
-        price: "150-180 PLN"
+      - name: "Bichon Frisé"
+        price: "od 240 zł"
         description: ""
-        tags: ["długowłose", "strzyżenie", "małe"]
+        tags: ["strzyżenie"]
 
-      - name: "Maltańczyk"
-        price: "160-180 PLN"
+      - name: "Cavapoo"
+        price: "od 220 zł"
         description: ""
-        tags: ["długowłose", "strzyżenie", "małe"]
+        tags: ["strzyżenie"]
 
-      - name: "Pudel miniaturowy"
-        price: "180-200 PLN"
+      - name: "Cocker Spaniel Angielski / Amerykański"
+        price: "od 280 zł"
         description: ""
-        tags: ["długowłose", "strzyżenie", "małe"]
-
-      - name: "Pudel średni"
-        price: "220-270 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "średnie"]
-
-      - name: "Maltipoo"
-        price: "170-190 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe"]
-
-      - name: "Shih Tzu"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "Hawańczyk"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "Lhasa Apso"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "Bichon"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "Coton de Tulear"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "Bolończyk"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "West Highland West Terrier"
-        price: "180-220 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "małe", "średnie"]
-
-      - name: "Sznaucer"
-        price: "180-200 PLN"
-        description: ""
-        tags: ["długowłose", "strzyżenie", "średnie"]
+        tags: ["strzyżenie"]
 
       - name: "Cockapoo"
-        price: "240-300 PLN"
+        price: "130 zł/h"
         description: ""
-        tags: ["długowłose", "strzyżenie", "średnie"]
+        tags: ["strzyżenie"]
+
+      - name: "Coton de Tulear"
+        price: "od 220 zł"
+        description: ""
+        tags: ["strzyżenie"]
+
+      - name: "Hawańczyk / Bolończyk"
+        price: "od 220 zł"
+        description: ""
+        tags: ["strzyżenie"]
 
       - name: "Lagotto Romagnolo"
-        price: "280-330 PLN"
+        price: "od 300 zł"
         description: ""
-        tags: ["długowłose", "strzyżenie", "średnie"]
+        tags: ["strzyżenie"]
 
-      - name: "Labradoodle"
-        price: "300-350 PLN"
+      - name: "Maltańczyk"
+        price: "od 180 zł"
         description: ""
-        tags: ["długowłose", "strzyżenie", "duże"]
+        tags: ["strzyżenie", "małe"]
 
-      - name: "Duże rasy"
-        price: "150 PLN/h"
-        description: "PON, Sznaucer Olbrzymi, Terier Rosyjski"
-        tags: ["długowłose", "strzyżenie", "duże"]
-
-  # Psy długowłose - wyczesanie
-  - name: "Psy długowłose - wyczesanie"
-    description: "Dwuetapowa pielęgnacja: kąpiel + wyczesanie"
-    services:
-      - name: "Chihuahua długowłosy"
-        price: "140-180 PLN"
+      - name: "Maltipoo"
+        price: "od 180 zł"
         description: ""
-        tags: ["długowłose", "wyczesanie", "małe"]
+        tags: ["strzyżenie", "małe"]
 
-      - name: "Szpic miniaturowy"
-        price: "140-180 PLN"
+      - name: "Portugalski Pies Dowodny / Barbet"
+        price: "od 300 zł"
         description: ""
-        tags: ["długowłose", "wyczesanie", "małe"]
+        tags: ["strzyżenie"]
 
-      - name: "Cavalier King Charles Spaniel"
-        price: "220-250 PLN"
+      - name: "Pudel Miniaturowy"
+        price: "od 220 zł"
         description: ""
-        tags: ["długowłose", "wyczesanie", "średnie"]
+        tags: ["strzyżenie"]
 
-      - name: "Spaniel Angielski/Amerykański (cena dotyczy także trymowania)"
-        price: "260-400 PLN"
+      - name: "Pudel Standard"
+        price: "140 zł/h"
         description: ""
-        tags: ["długowłose", "wyczesanie", "średnie"]
+        tags: ["strzyżenie", "duże"]
 
-      - name: "Duże rasy"
-        price: "140 PLN/h"
-        description: "Golden Retriever, Seter Irlandzki, Border Collie, Owczarek Niemiecki długowłosy, Samoyed, Husky, Alaskan Malamut, Berneński Pies Pasterski, Nowofundland"
-        tags: ["długowłose", "wyczesanie", "duże"]
+      - name: "Pudel Średni"
+        price: "od 240 zł"
+        description: ""
+        tags: ["strzyżenie"]
 
-  # Trymowanie
+      - name: "Pudel Toy"
+        price: "od 200 zł"
+        description: ""
+        tags: ["strzyżenie", "małe"]
+
+      - name: "Shih Tzu / Lhasa Apso"
+        price: "od 200 zł"
+        description: ""
+        tags: ["strzyżenie"]
+
+      - name: "Sznaucer Miniaturowy"
+        price: "od 210 zł"
+        description: ""
+        tags: ["strzyżenie"]
+
+      - name: "Sznaucer Olbrzym"
+        price: "140 zł/h"
+        description: ""
+        tags: ["strzyżenie", "duże"]
+
+      - name: "Sznaucer Średni"
+        price: "od 250 zł"
+        description: ""
+        tags: ["strzyżenie"]
+
+      - name: "West Highland White Terrier"
+        price: "od 240 zł"
+        description: ""
+        tags: ["strzyżenie"]
+
+      - name: "Yorkshire Terrier / Biewer"
+        price: "od 170 zł"
+        description: ""
+        tags: ["strzyżenie", "małe"]
+
   - name: "Trymowanie"
-    description: "Ręczne usuwanie martwego włosa"
+    description: "Ceny dotyczą psów trymowanych regularnie co 6-8 tygodni. Ze względu na specyfikę zabiegu trymowanie może być wykonywane bez kąpieli."
     services:
-      - name: "Małe rasy"
-        price: "110 PLN/h"
-        description: ""
-        tags: ["trymowanie", "małe"]
-
-      - name: "Średnie rasy"
-        price: "120 PLN/h"
-        description: ""
-        tags: ["trymowanie", "średnie"]
-
-      - name: "Duże rasy"
-        price: "130 PLN/h"
+      - name: "Airedale Terrier"
+        price: "160 zł/h"
         description: ""
         tags: ["trymowanie", "duże"]
+
+      - name: "Border Terrier"
+        price: "od 300 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Cavalier King Charles Spaniel"
+        price: "od 260 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Cocker Spaniel Angielski / Amerykański"
+        price: "od 330 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Foxterrier Szorstkowłosy"
+        price: "od 320 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Jack Russell Terrier Szorstkowłosy"
+        price: "od 280 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Jamnik Szorstkowłosy"
+        price: "od 300 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Parson Russell Terrier"
+        price: "od 280 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Seter Irlandzki / Angielski"
+        price: "160 zł/h"
+        description: ""
+        tags: ["trymowanie", "duże"]
+
+      - name: "Springer Spaniel Angielski"
+        price: "160 zł/h"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Sznaucer Miniaturowy"
+        price: "od 350 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Sznaucer Olbrzym"
+        price: "160 zł/h"
+        description: ""
+        tags: ["trymowanie", "duże"]
+
+      - name: "Sznaucer Średni"
+        price: "od 380 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Terrier Niemiecki"
+        price: "260 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Terrier Irlandzki"
+        price: "150 zł/h"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Terrier Walijski"
+        price: "280 zł"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "West Highland White Terrier"
+        price: "130 zł/h"
+        description: ""
+        tags: ["trymowanie"]
+
+      - name: "Wyżeł Niemiecki Szorstkowłosy"
+        price: "150 zł/h"
+        description: ""
+        tags: ["trymowanie"]
+
+  - name: "Rasy wymagające wyczesania"
+    description: "Kąpiel + wyczesanie podszerstka lub sierści"
+    services:
+      - name: "Basset"
+        price: "od 330 zł"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Beagle"
+        price: "od 220 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Boston Terrier"
+        price: "od 200 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Border Collie"
+        price: "od 300 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Buldog Francuski"
+        price: "od 180 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Charcik Włoski"
+        price: "od 180 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Chihuahua Krótkowłosa"
+        price: "od 140 zł"
+        description: ""
+        tags: ["wyczesanie", "małe", "chihuahua"]
+
+      - name: "Chihuahua Długowłosa"
+        price: "od 170 zł"
+        description: ""
+        tags: ["wyczesanie", "małe", "chihuahua"]
+
+      - name: "Jack Russell Terrier"
+        price: "180 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Jamnik Krótkowłosy"
+        price: "od 180 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Jamnik Długowłosy"
+        price: "od 220 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Mops"
+        price: "od 200 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Owczarek Australijski"
+        price: "od 300 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Owczarek Szetlandzki"
+        price: "od 240 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Owczarek Szkocki Długowłosy"
+        price: "160 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Pekińczyk"
+        price: "od 200 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Pinczer Miniaturowy"
+        price: "od 150 zł"
+        description: ""
+        tags: ["wyczesanie", "małe"]
+
+      - name: "Shiba"
+        price: "od 280 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Szpic Miniaturowy"
+        price: "od 220 zł"
+        description: ""
+        tags: ["wyczesanie", "małe"]
+
+      - name: "Welsh Corgi"
+        price: "od 220 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Doberman"
+        price: "od 320 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Cane Corso"
+        price: "150 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Samoyed"
+        price: "170 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Nowofundland"
+        price: "180 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Berneński Pies Pasterski"
+        price: "170 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Pitbull"
+        price: "od 300 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Amstaff"
+        price: "od 300 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Rottweiler"
+        price: "150 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Labrador Retriever"
+        price: "150 zł/h"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Owczarek Niemiecki Krótkowłosy"
+        price: "150 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Owczarek Niemiecki Długowłosy"
+        price: "170 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Dalmatyńczyk"
+        price: "od 300 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Bokser"
+        price: "od 300 zł"
+        description: ""
+        tags: ["wyczesanie"]
+
+      - name: "Owczarek Belgijski"
+        price: "150 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Golden Retriever"
+        price: "160 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Akita Inu"
+        price: "160 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Husky"
+        price: "160 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+      - name: "Alaskan Malamut"
+        price: "170 zł/h"
+        description: ""
+        tags: ["wyczesanie", "duże"]
+
+extras:
+  - name: "Rozczesywanie kołtunów"
+    price: "80 zł / 20 min"
+    description: ""
+
+  - name: "Golenie silnie skołtunionej sierści / filcu"
+    price: "150 zł"
+    description: ""
+
+  - name: "Czyszczenie uszu oraz wyrwanie włosków z uszu"
+    price: "50 zł"
+    description: ""
+
+  - name: "Psy agresywne / niewspółpracujące"
+    price: "+50% do ceny bazowej"
+    description: ""
