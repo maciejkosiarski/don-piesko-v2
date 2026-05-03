@@ -63,8 +63,9 @@ Niniejszy regulamin określa zasady korzystania z usług groomerskich świadczon
 4. Golenie silnie skołtunionej sierści/filcu - 150 zł - kwota doliczana do ceny bazowej usługi.
 5. Właściciel na początku wizyty zostaje poinformowany o wystąpieniu dodatkowej dopłaty do ceny bazowej usługi.
 6. Rezerwacja wizyty oznacza akceptację regulaminu i cennika.
-7. W przypadku odwołania wizyty na mniej niż 24 godziny przed terminem, salon zastrzega sobie prawo do pobrania opłaty za nieodbytą wizytę. Ponowna rezerwacja terminu będzie możliwa po wpłacie zadatku w wysokości 50% wysokości usługi.
-8. Płatność następuje po wykonaniu usługi.
+7. W ramach realizacji rezerwacji salon kontaktuje się z Klientem telefonicznie lub SMS-owo na numer podany przy umawianiu wizyty — w celu potwierdzenia, przypomnienia lub zmiany terminu. Podanie numeru telefonu jest dobrowolne, lecz niezbędne do umówienia i realizacji wizyty. Numer telefonu nie jest wykorzystywany w celach marketingowych bez odrębnej zgody Klienta.
+8. W przypadku odwołania wizyty na mniej niż 24 godziny przed terminem, salon zastrzega sobie prawo do pobrania opłaty za nieodbytą wizytę. Ponowna rezerwacja terminu będzie możliwa po wpłacie zadatku w wysokości 50% wysokości usługi.
+9. Płatność następuje po wykonaniu usługi.
 
 ---
 
