@@ -42,7 +42,7 @@ languages:
               - name: "Polityka prywatności"
                 url: "/polityka-prywatnosci/"
               - name: "Regulamin"
-                url: "/regulamin.pdf"
+                url: "/regulamin-2026-05-01/"
           - title: "Kontakt"
             type: "contact"
         social:
