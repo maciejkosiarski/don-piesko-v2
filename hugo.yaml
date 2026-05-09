@@ -152,3 +152,14 @@ params:
     quality: 100
     widths: [400, 800, 1200, 1600]
     lazy_loading: true
+  announcement:
+    enabled: true
+    type: warning
+    date_from: "2026-05-01"   
+    date_until: "2026-05-31"
+    messages:
+      pl:
+        text: "Od 1 maja obowiązuje nowy cennik usług. Zapraszamy do zapoznania się z aktualną ofertą!"
+        link_text: "Zobacz cennik"
+        link_url: "/cennik/"
+
