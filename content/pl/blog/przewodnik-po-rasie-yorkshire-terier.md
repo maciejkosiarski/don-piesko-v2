@@ -1,9 +1,9 @@
 ---
-title: "Yorkshire terier — przewodnik po rasie"
+title: "Yorkshire terier: przewodnik po rasie"
 date: 2025-09-01T09:00:00+02:00
 lastmod: 2026-05-27T10:00:00+02:00
 slug: "przewodnik-po-rasie-yorkshire-terier"
-description: "Yorkshire terier — pielęgnacja, charakter, sierść i strzyżenie. Jak czesać i kąpać yorka oraz kiedy oddać robotę groomerowi. Konkretne odpowiedzi."
+description: "Yorkshire terier: pielęgnacja, charakter, sierść i strzyżenie. Jak czesać i kąpać yorka oraz kiedy oddać robotę groomerowi. Konkretne odpowiedzi."
 keywords:
   - "yorkshire terier pielęgnacja"
   - "york grooming"
@@ -20,7 +20,7 @@ imageAlt: "Yorkshire terier po pielęgnacji w salonie Don Piesko w Lublinie"
 draft: false
 ---
 
-Yorkshire terier waży 2–3 kilogramy i mierzy 20–23 cm w kłębie. Tyle suchych liczb. W praktyce to lokalny twardziel, który nie zna pojęcia hierarchii według wagi — wchodzi w spór z psem pięć razy większym i często ten drugi odpuszcza pierwszy. Na Węglinie przerobiliśmy setki yorków i wiemy jedno: za jedwabistą sierścią stoi charakter, z którym trzeba się liczyć, a pielęgnacja yorkshire terriera ma swoje twarde zasady.
+Yorkshire terier waży 2–3 kilogramy i mierzy 20–23 cm w kłębie. Tyle suchych liczb. W praktyce to lokalny twardziel, który nie zna pojęcia hierarchii według wagi, wchodzi w spór z psem pięć razy większym i często ten drugi odpuszcza pierwszy. Na Węglinie przerobiliśmy setki yorków i wiemy jedno: za jedwabistą sierścią stoi charakter, z którym trzeba się liczyć, a pielęgnacja yorkshire terriera ma swoje twarde zasady.
 
 ## Historia rasy
 
@@ -62,7 +62,7 @@ Oswajanie szczeniaka z pielęgnacją zaczyna się od pierwszego dnia w domu. Kr�
 
 ## Co robimy w Don Piesko
 
-W salonie na Kryształowej yorki to nasi stali bywalcy. Najczęściej wybierane warianty strzyżenia to *puppy cut* (równomierne skrócenie całej sierści — wygodne dla psa, łatwe w domowej pielęgnacji), strzyżenie rasowe (zachowane proporcje sylwetki, dłuższe partie na bokach i nogach) oraz *teddy bear cut* (krągłe, miękkie kształty, popularne wśród klientów, którzy lubią pluszowy efekt).
+W salonie na Kryształowej yorki to nasi stali bywalcy. Najczęściej wybierane warianty strzyżenia to *puppy cut* (równomierne skrócenie całej sierści, wygodne dla psa, łatwe w domowej pielęgnacji), strzyżenie rasowe (zachowane proporcje sylwetki, dłuższe partie na bokach i nogach) oraz *teddy bear cut* (krągłe, miękkie kształty, popularne wśród klientów, którzy lubią pluszowy efekt).
 
 Zakres pełnej wizyty obejmuje też kąpiel z kosmetykami dobranymi pod typ sierści, dokładne suszenie z wyczesaniem, modelowanie nożycami i maszynką, trymowanie pyska i łap, skrócenie pazurów, czyszczenie uszu oraz higienę okolic intymnych. U yorka ta ostatnia część jest istotna — długa sierść na „spodniach" szybko się brudzi i bez przycięcia robi się z tego problem higieniczny.
 
@@ -88,7 +88,7 @@ W większości przypadków odpowiedź jest jedna: czeszesz powierzchownie, a ko�
 
 ### Czy można yorka ogolić na lato?
 
-Krótsze strzyżenie latem — tak, golenie do skóry — nie. Sierść chroni skórę przed słońcem i ukąszeniami owadów; jej całkowite usunięcie naraża psa na poparzenia i podrażnienia. Sensowna minimalna długość to kilka milimetrów. Dodatkowo po radykalnym ścięciu struktura włosa może zmienić się trwale — odrastać kędzierzawo lub matowo. Lepiej skrócić rozsądnie, nawet jeśli efekt nie jest „ekstremalnie letni".
+Krótsze strzyżenie latem: tak. Golenie do skóry: nie. Sierść chroni skórę przed słońcem i ukąszeniami owadów; jej całkowite usunięcie naraża psa na poparzenia i podrażnienia. Sensowna minimalna długość to kilka milimetrów. Dodatkowo po radykalnym ścięciu struktura włosa może zmienić się trwale — odrastać kędzierzawo lub matowo. Lepiej skrócić rozsądnie, nawet jeśli efekt nie jest „ekstremalnie letni".
 
 ### York boi się czesania i suszarki. Co robić?
 
