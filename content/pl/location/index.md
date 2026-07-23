@@ -4,4 +4,6 @@ description: "Znajdź nas w Lublinie na Węglinie - mapa dojazdu, godziny otwarc
 type: "location"
 url: "/lokalizacja/"
 image: "/images/outside-3.jpg"
+imageFit: "fill" 
+imageAspectRatio: "4:3"
 ---
