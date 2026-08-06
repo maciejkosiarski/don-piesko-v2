@@ -155,11 +155,11 @@ params:
   announcement:
     enabled: true
     type: warning
-    date_from: "2026-05-01"   
-    date_until: "2026-05-31"
+    date_from: "2026-08-06"   
+    date_until: "2026-08-16"
     messages:
       pl:
-        text: "Od 1 maja obowiązuje nowy cennik usług. Zapraszamy do zapoznania się z aktualną ofertą!"
-        link_text: "Zobacz cennik"
-        link_url: "/cennik/"
+        text: "Do 16 sierpnia zażywamy urlpu do zobaczenia wkrótce!"
+        # link_text: "Zobacz cennik"
+        # link_url: "/cennik/"
 
